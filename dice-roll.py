@@ -14,6 +14,7 @@ while True:
         elif dice == 1:
             print("Oof, just a 1. Better luck next roll.")
     elif user_choice.lower() == 'n':
+        print("Thank you for playing game 🤗! ")
         break
     else:
         print("Invalid Choice. Please enter 'y' or 'n'. ")
