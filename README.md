@@ -15,4 +15,4 @@ git clone https://github.com/Saksham-Project/Dice-Rolling-Game.git
 cd Dice-Rolling-Game
 python dice-roll.py
 
-# Author: Saksham-Project
+## Author: Saksham-Project
